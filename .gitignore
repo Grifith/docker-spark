@@ -1,0 +1,10 @@
+misc.txt
+dags/__pycache__
+.ipynb_checkpoints
+.part*
+part-*
+*_SUCCESS*
+*.pyc
+.idea
+.DS_Store
+spark/resources/*
