@@ -40,7 +40,7 @@ This project contains the following containers:
 
 ### Clone project
 
-    $ git clone https://github.com/cordon-thiago/airflow-spark
+    $ git clone https://github.com/Grifith/docker-spark.git
 
 ### Build airflow Docker
 
